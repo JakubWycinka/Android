@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currencies Retrofit</string>
+    <string name="data_empty">There is no currency data on selected day</string>
+    <string name="data_error">Can\'t load data</string>
+</resources>
